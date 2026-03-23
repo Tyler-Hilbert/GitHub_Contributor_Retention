@@ -1,6 +1,6 @@
 # GitHub Contributor Retention
 This repo generates stats of the contributor retention rate for a list of GitHub repos.  
-A contributor is considered "retained" if they have 2 commits at least 30 days apart.  
+A contributor is considered "retained" if they have 2 commits at least 14 days apart.  
 
 # Example Output
 [Dataset on HuggingFace](https://huggingface.co/datasets/TylerHilbert/GitHub_Contributor_Retention)
